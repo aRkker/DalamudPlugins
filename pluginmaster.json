@@ -3,7 +3,7 @@
         "Author": "aRkker",
         "Name": "World Map Enhancer",
         "InternalName": "WorldMapEnhancer",
-        "AssemblyVersion": "1.0.0.1",
+        "AssemblyVersion": "1.0.0.2",
         "Description": "Simply zoom out by right clicking the world map, like God intended it",
         "ApplicableVersion": "any",
         "Tags": [
@@ -16,15 +16,15 @@
         "DalamudApiLevel": 6,
         "LoadPriority": 0,
         "Punchline": "Right click to zoom out the big map",
+        "LastUpdate": "1651838531",
         "IsHide": "False",
-        "IsTestingExclusive": "False",
         "DownloadCount": 0,
+        "IsTestingExclusive": "False",
         "CategoryTags": [
             "utility",
             "other",
             "ui"
         ],
-        "LastUpdate": "1651838531",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/plugins/WorldMapEnhancer/latest.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/plugins/WorldMapEnhancer/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/plugins/WorldMapEnhancer/latest.zip"
