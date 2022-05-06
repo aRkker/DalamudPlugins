@@ -1,6 +1,7 @@
 {
 	"WorldMapEnhancer": [
 		"utility",
-		"other"
+		"other",
+		"ui"
 	]
 }
