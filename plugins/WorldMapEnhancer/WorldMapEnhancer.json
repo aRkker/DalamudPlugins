@@ -2,7 +2,7 @@
   "Author": "aRkker",
   "Name": "World Map Enhancer",
   "InternalName": "WorldMapEnhancer",
-  "AssemblyVersion": "1.0.0.0",
+  "AssemblyVersion": "1.0.0.1",
   "Description": "Simply zoom out by right clicking the world map, like God intended it",
   "ApplicableVersion": "any",
   "Tags": [
