@@ -1,30 +1,32 @@
-{
-    "Author": "aRkker",
-    "Name": "World Map Enhancer",
-    "InternalName": "WorldMapEnhancer",
-    "AssemblyVersion": "1.0.0.1",
-    "Description": "Simply zoom out by right clicking the world map, like God intended it",
-    "ApplicableVersion": "any",
-    "Tags": [
-        "world",
-        "map",
-        "enhance",
-        "rightclick",
-        "zoom"
-    ],
-    "DalamudApiLevel": 6,
-    "LoadPriority": 0,
-    "Punchline": "Right click to zoom out the big map",
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "DownloadCount": 0,
-    "CategoryTags": [
-        "utility",
-        "other",
-        "ui"
-    ],
-    "LastUpdate": "1651838531",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/plugins/WorldMapEnhancer/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/plugins/WorldMapEnhancer/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/plugins/WorldMapEnhancer/latest.zip"
-}
+[
+    {
+        "Author": "aRkker",
+        "Name": "World Map Enhancer",
+        "InternalName": "WorldMapEnhancer",
+        "AssemblyVersion": "1.0.0.1",
+        "Description": "Simply zoom out by right clicking the world map, like God intended it",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "world",
+            "map",
+            "enhance",
+            "rightclick",
+            "zoom"
+        ],
+        "DalamudApiLevel": 6,
+        "LoadPriority": 0,
+        "Punchline": "Right click to zoom out the big map",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "DownloadCount": 0,
+        "CategoryTags": [
+            "utility",
+            "other",
+            "ui"
+        ],
+        "LastUpdate": "1651838531",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/plugins/WorldMapEnhancer/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/plugins/WorldMapEnhancer/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/plugins/WorldMapEnhancer/latest.zip"
+    }
+]
