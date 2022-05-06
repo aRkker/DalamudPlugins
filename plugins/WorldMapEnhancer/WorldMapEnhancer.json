@@ -2,7 +2,7 @@
   "Author": "aRkker",
   "Name": "World Map Enhancer",
   "InternalName": "WorldMapEnhancer",
-  "AssemblyVersion": "1.0.0.3",
+  "AssemblyVersion": "1.0.0.4",
   "Description": "Simply zoom out by right clicking the world map, like God intended it",
   "ApplicableVersion": "any",
   "Tags": [
@@ -15,5 +15,5 @@
   "DalamudApiLevel": 6,
   "LoadPriority": 0,
   "Punchline": "Right click to zoom out the big map",
-  "Changelog": "1.0.0.3\n  Testing changelog :)"
+  "Changelog": "1.0.0.3\n  Testing changelog :)\n\n1.0.0.4\n Removed some testing debug logs"
 }
