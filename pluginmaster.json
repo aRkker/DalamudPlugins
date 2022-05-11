@@ -1,6 +1,29 @@
 [
   {
     "Author": "aRkker",
+    "Name": "CC wins tracker",
+    "InternalName": "CrystallineConflictWinsTracker",
+    "AssemblyVersion": "0.0.0.1",
+    "Description": "Tracks your CC wins and losses",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "pvp",
+      "stats"
+    ],
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "Punchline": "See how shite you are",
+    "Changelog": "0.0.0.1",
+    "LastUpdate": "",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "IsTestingExclusive": "False",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/plugins/CrystallineConflictWinsTracker/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/plugins/CrystallineConflictWinsTracker/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/plugins/CrystallineConflictWinsTracker/latest.zip"
+  },
+  {
+    "Author": "aRkker",
     "Name": "World Map Enhancer",
     "InternalName": "WorldMapEnhancer",
     "AssemblyVersion": "1.0.0.4",
@@ -17,7 +40,7 @@
     "LoadPriority": 0,
     "Punchline": "Right click to zoom out the big map",
     "Changelog": "1.0.0.3\n  Testing changelog :)\n\n1.0.0.4\n Removed some testing debug logs",
-    "LastUpdate": "1651840352",
+    "LastUpdate": "1651875912",
     "IsHide": "False",
     "DownloadCount": 0,
     "IsTestingExclusive": "False",

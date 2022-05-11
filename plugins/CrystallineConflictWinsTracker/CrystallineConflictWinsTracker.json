@@ -1,0 +1,16 @@
+{
+  "Author": "aRkker",
+  "Name": "CC wins tracker",
+  "InternalName": "CrystallineConflictWinsTracker",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "Tracks your CC wins and losses",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "pvp",
+    "stats"
+  ],
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "Punchline": "See how shite you are",
+  "Changelog": "0.0.0.1"
+}
