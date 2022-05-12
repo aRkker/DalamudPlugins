@@ -3,7 +3,7 @@
     "Author": "aRkker",
     "Name": "Crystalline Conflict Winratio tracker",
     "InternalName": "CrystallineConflictWinsTracker",
-    "AssemblyVersion": "0.0.0.7",
+    "AssemblyVersion": "0.0.0.8",
     "Description": "Tracks your CC wins and losses",
     "ApplicableVersion": "any",
     "Tags": [
@@ -15,7 +15,7 @@
     "LoadPriority": 0,
     "Punchline": "See how shite you are",
     "Changelog": "0.0.0.7\nBugfixes\n\n0.0.0.6\nTotal wins tracked across all classes\n\n0.0.0.5\nNamechange",
-    "LastUpdate": "1652360690",
+    "LastUpdate": "1652361339",
     "IsHide": "False",
     "DownloadCount": 0,
     "IsTestingExclusive": "False",
