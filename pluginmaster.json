@@ -1,9 +1,9 @@
 [
   {
     "Author": "aRkker",
-    "Name": "CC wins tracker",
+    "Name": "Crystalline Conflict Winratio tracker",
     "InternalName": "CrystallineConflictWinsTracker",
-    "AssemblyVersion": "0.0.0.4",
+    "AssemblyVersion": "0.0.0.5",
     "Description": "Tracks your CC wins and losses",
     "ApplicableVersion": "any",
     "Tags": [
@@ -14,8 +14,8 @@
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "Punchline": "See how shite you are",
-    "Changelog": "0.0.0.4\nBugfixes?",
-    "LastUpdate": "1652347515",
+    "Changelog": "0.0.0.5\nNamechange",
+    "LastUpdate": "1652347658",
     "IsHide": "False",
     "DownloadCount": 0,
     "IsTestingExclusive": "False",
