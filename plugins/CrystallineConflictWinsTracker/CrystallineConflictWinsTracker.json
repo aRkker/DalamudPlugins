@@ -2,7 +2,7 @@
   "Author": "aRkker",
   "Name": "CC wins tracker",
   "InternalName": "CrystallineConflictWinsTracker",
-  "AssemblyVersion": "0.0.0.2",
+  "AssemblyVersion": "0.0.0.3",
   "Description": "Tracks your CC wins and losses",
   "ApplicableVersion": "any",
   "Tags": [
@@ -12,5 +12,5 @@
   "DalamudApiLevel": 6,
   "LoadPriority": 0,
   "Punchline": "See how shite you are",
-  "Changelog": "0.0.0.2"
+  "Changelog": "0.0.0.3\nBugfixes?"
 }
