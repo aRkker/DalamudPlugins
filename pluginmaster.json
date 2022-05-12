@@ -3,18 +3,19 @@
     "Author": "aRkker",
     "Name": "CC wins tracker",
     "InternalName": "CrystallineConflictWinsTracker",
-    "AssemblyVersion": "0.0.0.3",
+    "AssemblyVersion": "0.0.0.4",
     "Description": "Tracks your CC wins and losses",
     "ApplicableVersion": "any",
     "Tags": [
       "pvp",
-      "stats"
+      "stats",
+      "other"
     ],
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
     "Punchline": "See how shite you are",
-    "Changelog": "0.0.0.3\nBugfixes?",
-    "LastUpdate": "1652347175",
+    "Changelog": "0.0.0.4\nBugfixes?",
+    "LastUpdate": "1652347515",
     "IsHide": "False",
     "DownloadCount": 0,
     "IsTestingExclusive": "False",
