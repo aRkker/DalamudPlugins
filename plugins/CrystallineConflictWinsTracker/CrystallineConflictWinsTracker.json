@@ -13,5 +13,5 @@
   "DalamudApiLevel": 6,
   "LoadPriority": 0,
   "Punchline": "See how shite you are",
-  "Changelog": "0.0.0.5\nNamechange"
+  "Changelog": "0.0.0.6\nTotal wins tracked across all classes\n\n0.0.0.5\nNamechange"
 }
