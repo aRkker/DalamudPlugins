@@ -2,7 +2,7 @@
   "Author": "aRkker",
   "Name": "Crystalline Conflict Winratio tracker",
   "InternalName": "CrystallineConflictWinsTracker",
-  "AssemblyVersion": "0.0.0.19",
+  "AssemblyVersion": "0.0.0.20",
   "Description": "Tracks your CC wins and losses",
   "ApplicableVersion": "any",
   "Tags": [
@@ -13,5 +13,5 @@
   "DalamudApiLevel": 7,
   "LoadPriority": 0,
   "Punchline": "See how shite you are",
-  "Changelog": "0.0.0.19\nMissing json config\n\n0.0.0.18\nBugfixes left over\n0.0.0.17\nAPI 7, season 2\n\n0.0.0.16\nDefaulted to season 2 from all\n0.0.0.15\nAdded seasons support\n0.0.0.14\nRandom errors fix\n\n0.0.0.13\nToobig....\n\n0.0.0.12\nHelp-text replaced with a proper one lol\n\n0.0.0.11\nBETTER COLOURS\n\n0.0.0.10\nCOLOURS\n\n0.0.0.9\nCrash fixes\n\n0.0.0.7\nBugfixes\n\n0.0.0.6\nTotal wins tracked across all classes\n\n0.0.0.5\nNamechange"
+  "Changelog": "0.0.0.20\nFixed class selection, season 3\n\n0.0.0.19\nMissing json config\n\n0.0.0.18\nBugfixes left over\n0.0.0.17\nAPI 7, season 2\n\n0.0.0.16\nDefaulted to season 2 from all\n0.0.0.15\nAdded seasons support\n0.0.0.14\nRandom errors fix\n\n0.0.0.13\nToobig....\n\n0.0.0.12\nHelp-text replaced with a proper one lol\n\n0.0.0.11\nBETTER COLOURS\n\n0.0.0.10\nCOLOURS\n\n0.0.0.9\nCrash fixes\n\n0.0.0.7\nBugfixes\n\n0.0.0.6\nTotal wins tracked across all classes\n\n0.0.0.5\nNamechange"
 }
