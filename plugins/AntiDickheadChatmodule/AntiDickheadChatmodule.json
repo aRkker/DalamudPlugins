@@ -2,7 +2,7 @@
   "Author": "aRkker",
   "Name": "Anti-Dickhead ChatModule",
   "InternalName": "AntiDickheadChatmodule",
-  "AssemblyVersion": "0.0.0.5",
+  "AssemblyVersion": "0.0.0.6",
   "Description": "Makes your chat more sufferable. :)",
   "ApplicableVersion": "any",
   "Tags": [
@@ -12,5 +12,5 @@
   "DalamudApiLevel": 7,
   "LoadPriority": 0,
   "Punchline": "Removes periods, and capitals",
-  "Changelog": "0.0.0.1\nInitial release for testing"
+  "Changelog": "0.0.0.6\nIts a whole new world"
 }
