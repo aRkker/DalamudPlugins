@@ -1,6 +1,29 @@
 [
   {
     "Author": "aRkker",
+    "Name": "Anti-Dickhead ChatModule",
+    "InternalName": "AntiDickheadChatmodule",
+    "AssemblyVersion": "0.0.0.1",
+    "Description": "Makes your chat more sufferable. :)",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "other",
+      "social"
+    ],
+    "DalamudApiLevel": 7,
+    "LoadPriority": 0,
+    "Punchline": "Removes periods, and capitals",
+    "Changelog": "0.0.0.1\nInitial release for testing",
+    "LastUpdate": "",
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "IsTestingExclusive": "False",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/plugins/AntiDickheadChatmodule/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/plugins/AntiDickheadChatmodule/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/plugins/AntiDickheadChatmodule/latest.zip"
+  },
+  {
+    "Author": "aRkker",
     "Name": "Crystalline Conflict Winratio tracker",
     "InternalName": "CrystallineConflictWinsTracker",
     "AssemblyVersion": "0.0.0.21",
@@ -15,7 +38,7 @@
     "LoadPriority": 0,
     "Punchline": "See how shite you are",
     "Changelog": "0.0.0.21\nSeason 2 game tracking fixed\n\n0.0.0.20\nFixed class selection, season 3\n\n0.0.0.19\nMissing json config\n\n0.0.0.18\nBugfixes left over\n0.0.0.17\nAPI 7, season 2\n\n0.0.0.16\nDefaulted to season 2 from all\n0.0.0.15\nAdded seasons support\n0.0.0.14\nRandom errors fix\n\n0.0.0.13\nToobig....\n\n0.0.0.12\nHelp-text replaced with a proper one lol\n\n0.0.0.11\nBETTER COLOURS\n\n0.0.0.10\nCOLOURS\n\n0.0.0.9\nCrash fixes\n\n0.0.0.7\nBugfixes\n\n0.0.0.6\nTotal wins tracked across all classes\n\n0.0.0.5\nNamechange",
-    "LastUpdate": "1661420889",
+    "LastUpdate": "1664642108",
     "IsHide": "False",
     "DownloadCount": 0,
     "IsTestingExclusive": "False",
