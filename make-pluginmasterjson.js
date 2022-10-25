@@ -1,5 +1,5 @@
-const fs = require('fs');
-var execSync = require('child_process').execSync;
+const fs = require("fs");
+var execSync = require("child_process").execSync;
 
 const API_LEVEL = 6;
 /*
@@ -36,37 +36,35 @@ const API_LEVEL = 6;
 
 */
 
+fs.readdir("./plugins", (err, files) => {
+  const categoryFallbacks = JSON.parse(fs.readFileSync("./categoryfallbacks.json").toString());
 
-fs.readdir('./plugins', (err, files) => {
-    const categoryFallbacks = JSON.parse(fs.readFileSync('./categoryfallbacks.json').toString());
+  let masterJson = [];
+  for (let d of files) {
+    console.log(d);
+    const pluginJsonPath = `plugins/${d}/${d}.json`;
 
-    let masterJson = [];
-    for (let d of files) {
-        console.log(d);
-        const pluginJsonPath = `plugins/${d}/${d}.json`;
+    const pluginJson = JSON.parse(fs.readFileSync(pluginJsonPath).toString());
 
-        const pluginJson = JSON.parse(fs.readFileSync(pluginJsonPath).toString());
+    console.log(pluginJson);
 
-        console.log(pluginJson);
+    const updatedDate = execSync(`git log -1 --pretty="format:%ct" plugins/${pluginJson.InternalName}/latest.zip`).toString();
 
+    const masterJsonInsert = {
+      ...pluginJson,
+      LastUpdate: updatedDate,
+      IsHide: "False",
+      DownloadCount: 69420,
+      IsTestingExclusive: "False",
+      CategoryTags: pluginJson.CategoryTags ?? categoryFallbacks[pluginJson.InternalName],
+      DownloadLinkInstall: `https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/plugins/${pluginJson.InternalName}/latest.zip`,
+      DownloadLinkTesting: `https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/plugins/${pluginJson.InternalName}/latest.zip`,
+      DownloadLinkUpdate: `https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/plugins/${pluginJson.InternalName}/latest.zip`,
+    };
 
-        const updatedDate = execSync(`git log -1 --pretty="format:%ct" plugins/${pluginJson.InternalName}/latest.zip`).toString();
+    masterJson.push(masterJsonInsert);
+    console.log(masterJsonInsert);
+  }
 
-        const masterJsonInsert = {
-            ...pluginJson,
-            LastUpdate: updatedDate,
-            IsHide: "False",
-            DownloadCount: 0,
-            IsTestingExclusive: "False",
-            CategoryTags: pluginJson.CategoryTags ?? categoryFallbacks[pluginJson.InternalName],
-            DownloadLinkInstall: `https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/plugins/${pluginJson.InternalName}/latest.zip`,
-            DownloadLinkTesting: `https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/plugins/${pluginJson.InternalName}/latest.zip`,
-            DownloadLinkUpdate: `https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/plugins/${pluginJson.InternalName}/latest.zip`
-        }
-
-        masterJson.push(masterJsonInsert);
-        console.log(masterJsonInsert);
-    }
-
-    fs.writeFileSync('./pluginmaster.json', JSON.stringify(masterJson, null, 2));
-})
+  fs.writeFileSync("./pluginmaster.json", JSON.stringify(masterJson, null, 2));
+});
