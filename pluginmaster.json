@@ -3,7 +3,7 @@
     "Author": "aRkker",
     "Name": "Anti-Dickhead ChatModule",
     "InternalName": "AntiDickheadChatmodule",
-    "AssemblyVersion": "0.0.0.6",
+    "AssemblyVersion": "0.0.0.7",
     "Description": "Makes your chat more sufferable. :)",
     "ApplicableVersion": "any",
     "Tags": [
@@ -14,7 +14,7 @@
     "LoadPriority": 0,
     "Punchline": "Removes periods, and capitals",
     "Changelog": "0.0.0.6\nIts a whole new world",
-    "LastUpdate": "1666735582",
+    "LastUpdate": "1666735590",
     "IsHide": "False",
     "DownloadCount": 69420,
     "IsTestingExclusive": "False",
