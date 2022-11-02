@@ -1,9 +1,9 @@
 {
-  "Author": "Adam",
+  "Author": "aRkker",
   "Name": "Penumbra",
   "InternalName": "Penumbra",
   "AssemblyVersion": "1.0.0.1",
-  "Description": "Runtime mod loader and manager.",
+  "Description": "Runtime mod loader and manager, with aRkkers api tweaks lol",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/xivdev/Penumbra",
   "Tags": [

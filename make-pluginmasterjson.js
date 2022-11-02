@@ -52,7 +52,7 @@ fs.readdir("./plugins", (err, files) => {
 
     const masterJsonInsert = {
       ...pluginJson,
-      LastUpdate: updatedDate,
+      LastUpdate: updatedDate.length < 2 ? Math.round(Date.now() / 1000) : updatedDate,
       IsHide: "False",
       DownloadCount: 69420,
       IsTestingExclusive: "False",
