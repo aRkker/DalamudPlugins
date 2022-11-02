@@ -1,0 +1,16 @@
+{
+  "Author": "Adam",
+  "Name": "Penumbra",
+  "InternalName": "Penumbra",
+  "AssemblyVersion": "1.0.0.1",
+  "Description": "Runtime mod loader and manager.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/xivdev/Penumbra",
+  "Tags": [
+    "modding"
+  ],
+  "DalamudApiLevel": 7,
+  "LoadPriority": 69420,
+  "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png",
+  "Punchline": "I added some API stuff lol"
+}
