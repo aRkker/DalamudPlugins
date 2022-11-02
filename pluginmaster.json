@@ -71,7 +71,7 @@
   },
   {
     "Author": "aRkker",
-    "Name": "Penumbra",
+    "Name": "Penumbra-Modded",
     "InternalName": "Penumbra",
     "AssemblyVersion": "1.0.0.1",
     "Description": "Runtime mod loader and manager, with aRkkers api tweaks lol",
@@ -84,7 +84,7 @@
     "LoadPriority": 69420,
     "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png",
     "Punchline": "I added some API stuff lol",
-    "LastUpdate": "1667430751",
+    "LastUpdate": "1667431096",
     "IsHide": "False",
     "DownloadCount": 69420,
     "IsTestingExclusive": "False",
