@@ -50,7 +50,7 @@
     "Author": "aRkker",
     "Name": "Omicron music enabler",
     "InternalName": "OmicronMountMusicFixer",
-    "AssemblyVersion": "0.0.0.1",
+    "AssemblyVersion": "0.0.0.2",
     "Description": "More or less more or less music",
     "ApplicableVersion": "any",
     "Tags": [
@@ -61,7 +61,7 @@
     "LoadPriority": 0,
     "Punchline": "Haha yes mount wrong music :)",
     "Changelog": "0.0.0.1\nIts a whole new world",
-    "LastUpdate": "1667430883",
+    "LastUpdate": "1667430962",
     "IsHide": "False",
     "DownloadCount": 69420,
     "IsTestingExclusive": "False",
