@@ -2,7 +2,7 @@
   "Author": "aRkker",
   "Name": "Penumbra-Modded",
   "InternalName": "Penumbra",
-  "AssemblyVersion": "1.0.0.3",
+  "AssemblyVersion": "1.0.0.4",
   "Description": "Runtime mod loader and manager, with aRkkers api tweaks lol",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/xivdev/Penumbra",
