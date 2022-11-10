@@ -2,7 +2,7 @@
   "Author": "aRkker",
   "Name": "Penumbra-Modded",
   "InternalName": "Penumbra",
-  "AssemblyVersion": "1.0.0.1",
+  "AssemblyVersion": "1.0.0.3",
   "Description": "Runtime mod loader and manager, with aRkkers api tweaks lol",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/xivdev/Penumbra",
@@ -12,5 +12,6 @@
   "DalamudApiLevel": 7,
   "LoadPriority": 69420,
   "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png",
-  "Punchline": "I added some API stuff lol"
+  "Punchline": "I added some API stuff lol",
+  "Changelog": "1.0.0.3\nBetter way of doing the mod enabling etc"
 }
