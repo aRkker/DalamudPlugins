@@ -2,7 +2,7 @@
   "Author": "aRkker",
   "Name": "Omicron music enabler",
   "InternalName": "OmicronMountMusicFixer",
-  "AssemblyVersion": "1.0.0.0",
+  "AssemblyVersion": "1.0.0.1",
   "Description": "More or less more or less music",
   "ApplicableVersion": "any",
   "Tags": [
@@ -12,5 +12,5 @@
   "DalamudApiLevel": 7,
   "LoadPriority": 0,
   "Punchline": "Haha yes mount wrong music :)",
-  "Changelog": "1.0.0.0\nShamelessly copied OrchestrionPlugin's implementation for song changes, Penumbra no longer necessary"
+  "Changelog": "1.0.0.1\nMissing data paths"
 }
