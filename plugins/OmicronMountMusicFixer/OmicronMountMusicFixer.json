@@ -2,7 +2,7 @@
   "Author": "aRkker",
   "Name": "Omicron music enabler",
   "InternalName": "OmicronMountMusicFixer",
-  "AssemblyVersion": "1.0.0.6",
+  "AssemblyVersion": "1.0.0.7",
   "Description": "This plugin swaps the Miiw Miisv mount music to the Elysion theme from the Omicron beast tribe dailies. I found that this should have been the music from the get-go, but alas it wasnt. Now, with this plugin, it can be so",
   "ApplicableVersion": "any",
   "Tags": [
@@ -12,5 +12,5 @@
   "DalamudApiLevel": 7,
   "LoadPriority": 0,
   "Punchline": "Swap the Miiw Miisv music for Cradle of Hope",
-  "Changelog": "1.0.0.6\nDisabled this in PVP, seemed to happen in Frontlines too where it is not supposed to"
+  "Changelog": "1.0.0.7\nDisabled this in PVP, seemed to happen in Frontlines too where it is not supposed to"
 }
