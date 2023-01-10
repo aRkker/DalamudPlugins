@@ -2,7 +2,7 @@
   "Author": "aRkker",
   "Name": "Crystalline Conflict Winratio tracker",
   "InternalName": "CrystallineConflictWinsTracker",
-  "AssemblyVersion": "0.0.0.29",
+  "AssemblyVersion": "0.0.1.0",
   "Description": "Tracks your CC wins and losses",
   "ApplicableVersion": "any",
   "Tags": [
@@ -10,8 +10,8 @@
     "stats",
     "other"
   ],
-  "DalamudApiLevel": 7,
+  "DalamudApiLevel": 8,
   "LoadPriority": 0,
   "Punchline": "See how shite you are",
-  "Changelog": "0.0.0.26\nSeason 5"
+  "Changelog": "0.0.1.0\nDalamud API 8, NET 7.0"
 }
