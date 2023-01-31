@@ -48,6 +48,29 @@
   },
   {
     "Author": "aRkker",
+    "Name": "Multibox Mutexer",
+    "InternalName": "MultiboxMutexer",
+    "AssemblyVersion": "1.0.1.1",
+    "Description": "This plugin does magic to release the mutexes held by XIV to prevent more than 2 game instances launching",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "other",
+      "social"
+    ],
+    "DalamudApiLevel": 8,
+    "LoadPriority": 0,
+    "Punchline": "Let there be more than 2 instances of game",
+    "Changelog": "0.0.0.1 Initial release",
+    "LastUpdate": "1675170470",
+    "IsHide": "False",
+    "DownloadCount": 69420,
+    "IsTestingExclusive": "False",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/plugins/MultiboxMutexer/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/plugins/MultiboxMutexer/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/aRkker/DalamudPlugins/master/plugins/MultiboxMutexer/latest.zip"
+  },
+  {
+    "Author": "aRkker",
     "Name": "Omicron music enabler",
     "InternalName": "OmicronMountMusicFixer",
     "AssemblyVersion": "1.0.1.1",
