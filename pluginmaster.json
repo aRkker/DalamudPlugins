@@ -50,7 +50,7 @@
     "Author": "aRkker",
     "Name": "Multibox Mutexer",
     "InternalName": "MultiboxMutexer",
-    "AssemblyVersion": "1.0.1.1",
+    "AssemblyVersion": "1.0.1.2",
     "Description": "This plugin does magic to release the mutexes held by XIV to prevent more than 2 game instances launching",
     "ApplicableVersion": "any",
     "Tags": [
@@ -61,7 +61,7 @@
     "LoadPriority": 0,
     "Punchline": "Let there be more than 2 instances of game",
     "Changelog": "0.0.0.1 Initial release",
-    "LastUpdate": "1675170470",
+    "LastUpdate": "1675170672",
     "IsHide": "False",
     "DownloadCount": 69420,
     "IsTestingExclusive": "False",
