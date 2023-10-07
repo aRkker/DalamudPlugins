@@ -2,7 +2,7 @@
   "Author": "aRkker",
   "Name": "Crystalline Conflict Winratio tracker",
   "InternalName": "CrystallineConflictWinsTracker",
-  "AssemblyVersion": "0.0.2.2",
+  "AssemblyVersion": "0.0.2.3",
   "Description": "Tracks your CC wins and losses",
   "ApplicableVersion": "any",
   "Tags": [
